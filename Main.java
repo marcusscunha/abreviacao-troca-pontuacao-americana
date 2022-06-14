@@ -5,7 +5,7 @@ import java.util.Locale;
 public class Main{
 	public static void main(String[]args) {
 		String product1="Computer";
-		String procudt2="Office Desk";
+		String procuct2="Office Desk";
 		int age=30;
 		int code=5290;
 		char gender='F';
